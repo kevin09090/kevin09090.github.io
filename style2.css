@@ -1,0 +1,12 @@
+p{ 
+    text-align: center;
+    font-weight: bold;
+    font-family:monospace;
+}
+a:link,
+a:visited{
+    text-decoration: none;
+}
+a:hover {
+    background-color: orange
+}

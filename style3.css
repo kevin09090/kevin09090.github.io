@@ -1,0 +1,18 @@
+
+a{ 
+    text-align: center;
+    font-weight: bold;
+    font-family:monospace;
+}
+
+http://www.google.es/about/company/images/company-products.png
+
+
+ctx.fillRect(2*unit,1*unit,4*unit,2*unit);
+    ctx.fillRect(8*unit,1*unit,10*unit,2*unit);
+    ctx.fillRect(1*unit,2*unit,2*unit,4*unit);
+    ctx.fillRect(1*unit,2*unit,11*unit,4*unit);
+    ctx.fillRect(0,4*unit,1*unit,12*unit);
+    ctx.fillRect(11*unit,4*unit,12*unit,12*unit);
+    ctx.fillRect(2*unit,12*unit,4*unit,13*unit);
+    ctx.fillRect(2*unit,12*unit,4*unit,13*unit);

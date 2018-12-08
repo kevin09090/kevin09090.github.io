@@ -10,3 +10,8 @@ a:visited{
 a:hover {
     background-color: orange
 }background-repeat: no-repeat
+
+
+background-image: url("images/kback.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
